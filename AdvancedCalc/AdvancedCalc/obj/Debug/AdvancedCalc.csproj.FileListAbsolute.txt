@@ -1,0 +1,8 @@
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\bin\Debug\AdvancedCalc.exe
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\bin\Debug\AdvancedCalc.pdb
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.csprojResolveAssemblyReference.cache
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.Form1.resources
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.Properties.Resources.resources
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.csproj.GenerateResource.Cache
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.exe
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\AdvancedCalc\AdvancedCalc\obj\Debug\AdvancedCalc.pdb
