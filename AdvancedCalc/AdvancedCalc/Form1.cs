@@ -17,34 +17,34 @@ namespace AdvancedCalc
         double sum;
         private void btnplus_Click(object sender, EventArgs e)
         {
-            sum = 0;
+            
             sum = double.Parse(txtNum1.Text) + double.Parse(txtNum2.Text);
         }
 
         private void btnminus_Click(object sender, EventArgs e)
         {
-            sum = 0;
+            
             sum = double.Parse(txtNum1.Text) - double.Parse(txtNum2.Text);
         }
 
         private void btnmult_Click(object sender, EventArgs e)
         {
-            sum = 0;
+            
             sum = double.Parse(txtNum1.Text) * double.Parse(txtNum2.Text);
         }
 
         private void btndvide_Click(object sender, EventArgs e)
         {
-            sum = 0;
+            
             sum = double.Parse(txtNum1.Text) / double.Parse(txtNum2.Text);
         }
 
         private void btnByitself_Click(object sender, EventArgs e)
         {
-            sum = 0;
-            sum = GetByItself(double.Parse(txtNum1.Text), double.Parse(txtNum2.Text));
+            
+            sum = Power(double.Parse(txtNum1.Text), double.Parse(txtNum2.Text));
         }
-        public double GetByItself(double num1,double num2)
+        public double Power(double num1,double num2)
         {
             double retur = 0;
             for (int i =0;i < num2; i++)
